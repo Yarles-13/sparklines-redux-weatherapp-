@@ -1,8 +1,8 @@
 
 import './App.css';
 
-import WeatherList  from './components /WeatherList';
-import SearchBar from './components /SearchBar';
+import WeatherList  from './components/WeatherList';
+import SearchBar from './components/SearchBar';
 
 
 
